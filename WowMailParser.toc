@@ -1,0 +1,9 @@
+## Interface: 90001
+## Title: WowMailParser
+## Notes: Parses mail and dumps statistics
+## Author: bclinnin
+## Version: v0.0.1
+##DefaultState: enabled
+
+# Core files
+WowMailParser.lua
